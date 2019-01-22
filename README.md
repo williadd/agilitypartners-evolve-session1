@@ -7,6 +7,8 @@
 - Hello World in Rails
 - Code quality into
 
+[I'm a relative reference to a repository file](content/Rails - Week 1.pdf)
+
 ## Week 1 Assignment - Calculator with Rails
 Yes, this is way overkill to use Rails to build a simple calculator. This is not an exercise to see if you can build a calculator, it's intended to make you use some of the controller and view so that you begin to understand where everything goes and the request-response cycle in Rails.
 
