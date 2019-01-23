@@ -8,6 +8,7 @@
 - Code quality into
 
 [Week 1 Slides](content/Rails%20-%20Week%201.pdf)
+
 [Week 1 Supplement](content/Week%201%20Supplementary.pdf) (remember, this was going to be the lecture of class was cancelled)
 
 ## Week 1 Assignment - Calculator with Rails
