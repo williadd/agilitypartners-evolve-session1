@@ -20,3 +20,11 @@ Build a calculator that
 - Has the user entering things in the format "1 + 1 =" using buttons
 
 Please do not just use some Javascript to solve the problem in a single page. Though, you may need to use a little Javascript to get some field assignments to work properly.
+
+## Week 2 - Scaffolding and Persistence
+- Scaffolding basics
+- Routes and REST
+- Testing in Rails
+- ActiveRecord and Models
+
+## Week 2 Assignment - Company Employee Listing
