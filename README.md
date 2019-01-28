@@ -27,6 +27,8 @@ Please do not just use some Javascript to solve the problem in a single page. Th
 - Testing in Rails
 - ActiveRecord and Models
 
+[Week 2 Slides](content/Rails%20-%20Week%202.pdf)
+
 ## Week 2 Assignment - Company Employee Listing
 Looking for an applivation that allows the user to manage the employees for many companies. Want to be able to do the following
 - View and manage a list of companies
