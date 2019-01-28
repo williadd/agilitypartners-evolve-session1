@@ -33,3 +33,5 @@ Looking for an applivation that allows the user to manage the employees for many
 - View and manage the employees for each of those companies
 - see the count of employees for each company
 - search for employees matching a portion of a name
+
+Scaffolding will create a lot of this for you, but it won't be pretty, so you may want to add a little style to the generated pages. Don't worry about pagination right now. Active Record does have capabilities to help with that, though. You will need to create your own content for the search page.
