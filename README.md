@@ -28,3 +28,8 @@ Please do not just use some Javascript to solve the problem in a single page. Th
 - ActiveRecord and Models
 
 ## Week 2 Assignment - Company Employee Listing
+Looking for an applivation that allows the user to manage the employees for many companies. Want to be able to do the following
+- View and manage a list of companies
+- View and manage the employees for each of those companies
+- see the count of employees for each company
+- search for employees matching a portion of a name
