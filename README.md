@@ -5,7 +5,7 @@
 - Ruby language
 - Getting started with unit testing
 - Hello World in Rails
-- Code quality into
+- Code quality intro
 
 [Week 1 Slides](content/Rails%20-%20Week%201.pdf)
 
@@ -37,3 +37,9 @@ Looking for an applivation that allows the user to manage the employees for many
 - search for employees matching a portion of a name
 
 Scaffolding will create a lot of this for you, but it won't be pretty, so you may want to add a little style to the generated pages. Don't worry about pagination right now. Active Record does have capabilities to help with that, though. You will need to create your own content for the search page.
+
+## Week 3 - Testing
+- testing controllers and models
+- mocking
+- executing code quality tools with Rake
+- other things you can do with Active Record
