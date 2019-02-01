@@ -38,8 +38,18 @@ Looking for an applivation that allows the user to manage the employees for many
 
 Scaffolding will create a lot of this for you, but it won't be pretty, so you may want to add a little style to the generated pages. Don't worry about pagination right now. Active Record does have capabilities to help with that, though. You will need to create your own content for the search page.
 
-## Week 3 - Testing
+## Week 3 - Testing, More about Routes, API only apps
 - testing controllers and models
 - mocking
 - executing code quality tools with Rake
-- other things you can do with Active Record
+- Nesting routes and route aliasing
+- Cookies and Sessions
+
+## Week 3 Assignment - AgilityPartnersWireless.com
+We're going to build a new wireless provider! This project will take 2 weeks and will use all of the things we've learned so far. There is 3 aspects to this
+1. site for the provider to manage devices and accounts
+1. site for customers to buy devices and manage their accounts
+1. device emulators
+
+It's going to be a little complex. The device emulators will be really dumbed down, just a simple page that has some numbers and can place fake calls and send fake text threads.
+
