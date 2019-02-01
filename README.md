@@ -56,7 +56,10 @@ It's going to be a little complex. The device emulators will be really dumbed do
 Here's some functionality needed, at a high level.
 
 AP Wireless customer service
-- 
+- locate customer accounts by account number, phone number, or by name (e.g. searching for John should bring back John Smith or Elton John)
+- see what devices a customer has on their account
+- see summary information about device activity
+- manage devices available through AP Wireless, including inventory levels
 
 AP Wireless user site
 - create a new account or access an existing account (by phone number)
@@ -65,3 +68,13 @@ AP Wireless user site
 - deactivate a device
 
 Phone emulators
+- make phone calls 
+  - nobody is receiving the call, but the receiver would be able to see the call log
+- send texts
+  - nobody receives the text in real time, but the reciever should be able to see the thread
+  
+As noted above, this is meant to use a lot of the things we've learned about. You'll need to
+- define some routes to help make the URL in the browser look better
+- essentially have 2 sites in the same app
+- have a servie that just manages device activity
+- do some searching of active record objects
