@@ -53,3 +53,15 @@ We're going to build a new wireless provider! This project will take 2 weeks and
 
 It's going to be a little complex. The device emulators will be really dumbed down, just a simple page that has some numbers and can place fake calls and send fake text threads.
 
+Here's some functionality needed, at a high level.
+
+AP Wireless customer service
+- 
+
+AP Wireless user site
+- create a new account or access an existing account (by phone number)
+- "purchase" decvices and add them to your account
+- see usage for devices on your account
+- deactivate a device
+
+Phone emulators
