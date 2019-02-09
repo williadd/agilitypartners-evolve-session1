@@ -83,3 +83,5 @@ As noted above, this is meant to use a lot of the things we've learned about. Yo
 ## Week 4 - Testing
 - Mocks
 - More complext Testing
+
+[Week 4 Slides](content/Rails%20-%20Week%204.pdf)
