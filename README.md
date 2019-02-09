@@ -38,9 +38,8 @@ Looking for an applivation that allows the user to manage the employees for many
 
 Scaffolding will create a lot of this for you, but it won't be pretty, so you may want to add a little style to the generated pages. Don't worry about pagination right now. Active Record does have capabilities to help with that, though. You will need to create your own content for the search page.
 
-## Week 3 - Testing, More about Routes
+## Week 3 - More Complexity
 - testing controllers and models
-- mocking
 - executing code quality tools with Rake
 - Nesting routes and route aliasing
 - Cookies and Sessions
@@ -80,3 +79,7 @@ As noted above, this is meant to use a lot of the things we've learned about. Yo
 - essentially have 2 sites in the same app
 - have a servie that just manages device activity
 - do some searching of active record objects
+
+## Week 4 - Testing
+- Mocks
+- More complext Testing
